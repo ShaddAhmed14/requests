@@ -7,7 +7,6 @@ and maintain connections.
 """
 
 import os.path
-import socket  # noqa: F401
 import typing
 import warnings
 
